@@ -1,5 +1,9 @@
-# my-notes
-就是笔记啊  
+# my-notes  
+
+都是我自己的笔记，写成markdown保存起来  
+
 *****  
+
 使用vsc的**Markdown Preview Enhanced**插件  
-github的latex公式渲染太离谱了，下标的\_居然能给理解成斜体，阅读时建议下载下来看
+因为vsc的插件对markdown语法要求很宽松，所以markdown的有些代码在GitHub上渲染会有问题。而且GitHub对markdown内的latex公式支持不是很好，所以就按照vsc的插件的格式要求来了。  
+release会放pdf、png和html版。  
